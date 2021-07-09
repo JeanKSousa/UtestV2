@@ -8,7 +8,6 @@ import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 import org.openqa.selenium.Keys;
 import utestv2.models.UserData;
-import utestv2.userinterface.GlobalAddress;
 
 import java.util.List;
 

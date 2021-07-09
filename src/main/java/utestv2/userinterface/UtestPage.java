@@ -7,6 +7,6 @@ import org.openqa.selenium.By;
 
 @DefaultUrl("https://utest.com/")
 public class UtestPage extends PageObject {
-    public static final Target SIGUP = Target.the("whe do we write the password")
+    public static final Target SIGUP = Target.the("")
             .located(By.xpath("//a[contains(text(), 'Join Today')]"));
 }

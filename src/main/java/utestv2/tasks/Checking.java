@@ -1,18 +1,15 @@
 package utestv2.tasks;
 
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 import utestv2.models.UserData;
-import utestv2.userinterface.SecurityInformation;
 
 import java.util.List;
 
-import static utestv2.userinterface.GlobalAddress.CITY;
 import static utestv2.userinterface.SecurityInformation.*;
 
 public class Checking implements Task {

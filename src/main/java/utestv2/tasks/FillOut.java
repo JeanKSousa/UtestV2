@@ -9,7 +9,6 @@ import net.serenitybdd.screenplay.actions.Scroll;
 import net.serenitybdd.screenplay.actions.SelectFromOptions;
 import org.openqa.selenium.Keys;
 import utestv2.models.UserData;
-import utestv2.userinterface.PersonalInformation;
 
 import java.util.List;
 

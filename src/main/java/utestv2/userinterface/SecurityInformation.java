@@ -14,6 +14,6 @@ public class SecurityInformation {
             .located(By.id("termOfUse"));
     public static final Target PRIVACY = Target.the("")
             .located(By.id("privacySetting"));
-    public static  final  Target NAME_STEP = Target.the("Dar click para buscar el curso")
+    public static  final  Target NAME_STEP = Target.the("")
             .located(By.xpath("//span[contains(text(), 'The last step')]"));
 }
